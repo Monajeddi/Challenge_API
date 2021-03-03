@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+  margin-top: 20px;
+  width: 900px;
+}
+
+.ListCards{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  
+}
+
+.btn{
+  height:30px;
+  font-size: small !important;
+  
+}
+
+
+.Cards{
+  height: 220px;
+  
+}
+
+
+.name{
+  font-size: medium !important;
+}
+.text{
+  font-size: small !important;
+}
+
+.title-2{
+  font-style: italic;
+  color: rgb(29, 49, 138);
+}
+
+.goback{
+  text-align: left;
+}
+
+
+
+.search1{
+width: 450px;
+}
+
+.posttitle{
+  font-weight: bold !important;
+}
